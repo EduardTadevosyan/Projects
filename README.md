@@ -11,16 +11,14 @@ From SQL dashboards to machine learning apps, here’s a curated collection of t
 ### 📰 Fake News Detection (NLP)
 A machine learning classification model that identifies fake news based on textual content using NLP and Scikit-learn pipelines.  
 **Tools:** Python, Scikit-learn, Pandas, TfidfVectorizer, Streamlit  
-📂 [View Repository →](https://github.com/EduardTadevosyan/FakeNews)
-🖼️ _Screenshot coming soon_
+📂 [View Repository ](https://github.com/EduardTadevosyan/FakeNews)
 
 ---
 
 ### 🔁 Customer Churn Prediction
 A Streamlit app that predicts telecom customer churn based on contract and billing features using a trained ML model.  
 **Tools:** Python, Pandas, Scikit-learn, Streamlit  
-📂 [View Repository →](https://github.com/EduardTadevosyan/churn_model)
-🖼️ _Screenshot coming soon_
+📂 [View Repository ](https://github.com/EduardTadevosyan/churn_model)
 
 ---
 
@@ -29,10 +27,9 @@ A Streamlit app that predicts telecom customer churn based on contract and billi
 ### 🏠 Airbnb NYC 2018 Analysis
 Exploratory data analysis of New York City Airbnb listings in 2018 using SQL and Power BI.  
 Includes interactive dashboards that show trends in pricing, location, room types, and availability.  
-**Tools:** PostgreSQL, Power BI  
-📂 [View Repository →](https://github.com/EduardTadevosyan/NYC_AirBnB)
-🖼️ _Power BI dashboard image coming soon_
-
+**Tools:** MySQL, Power BI  
+📂 [View Repository SQL](https://github.com/EduardTadevosyan/NYC_AirBnB)
+📂 [View Repository PowerBI](https://github.com/EduardTadevosyan/NYC_AirBnB_PowerBi)
 ---
 
 ### 📎 Back to My GitHub Profile
