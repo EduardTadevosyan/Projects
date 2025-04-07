@@ -22,6 +22,16 @@ A Streamlit app that predicts telecom customer churn based on contract and billi
 
 ---
 
+## 💽 Big Data Projects
+
+### 🚕 NYC Yellow Taxi Trip Analysis (Jan 2025)
+A big data project that analyzes NYC Yellow Taxi trip data using PySpark.  
+It covers time-based trends, fare and distance insights, and zone-level patterns using Spark DataFrames.  
+**Tools:** PySpark, Python, Parquet  
+📂 [View Repository](https://github.com/EduardTadevosyan/PysparkNYCyellowcab)
+
+---
+
 ## 📊 Business Intelligence & SQL Projects
 
 ### 🏠 Airbnb NYC 2018 Analysis
@@ -35,3 +45,4 @@ Includes interactive dashboards that show trends in pricing, location, room type
 
 ### 📎 Back to My GitHub Profile  
 [🔙 EduardTadevosyan](https://github.com/EduardTadevosyan)
+
